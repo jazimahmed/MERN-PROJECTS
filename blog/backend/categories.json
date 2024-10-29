@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Programming",
+      "slug": "programming",
+      "description": "All about programming languages and concepts.",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "name": "Database",
+      "slug": "database",
+      "description": "Information related to databases, both SQL and NoSQL.",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "name": "Frontend",
+      "slug": "frontend",
+      "description": "Frontend development including HTML, CSS, and JavaScript frameworks.",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "name": "Development",
+      "slug": "development",
+      "description": "General software development topics including methodologies and best practices.",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+  

@@ -1,0 +1,82 @@
+[
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608d7" },
+        "title": "Exploring Node.js",
+        "content": "Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser.",
+        "category": { "$oid": "671b36ddb758790add0b9cf9" },
+        "authar": "Jazim Ahmed",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608d8" },
+        "title": "Understanding MongoDB",
+        "content": "MongoDB is a NoSQL database that uses documents similar to JSON. It's designed for scalability and flexibility.",
+        "category": { "$oid": "671b36ddb758790add0b9cfb" },
+        "authar": "Jazim Ahmed",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608da" },
+        "title": "Benefits of Test-Driven Development",
+        "content": "Test-driven development (TDD) is a software development process in which developers write tests before writing the actual code.",
+        "category": { "$oid": "671b36ddb758790add0b9cfc" },
+        "authar": "Jane Smith",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Test-driven_development_diagram.png"
+    },
+    {
+        "_id": { "$oid": "671926b4ff6f860ffe61d494" },
+        "title": "The Rise of Node.js",
+        "content": "Node.js has revolutionized backend development with its non-blocking architecture.",
+        "category": { "$oid": "671b38c569611803fdb206d0" },
+        "authar": "Alice Johnson",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608db" },
+        "title": "Mastering JavaScript",
+        "content": "JavaScript is a versatile language that powers the dynamic behavior of most websites.",
+        "category": { "$oid": "671b36ddb758790add0b9cf9" },
+        "authar": "Chris Lee",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608dc" },
+        "title": "Introduction to NoSQL Databases",
+        "content": "NoSQL databases are used for handling large volumes of unstructured data.",
+        "category": { "$oid": "671b36ddb758790add0b9cfb" },
+        "authar": "Maria Gonzalez",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/NoSQL_database_types.png"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608dd" },
+        "title": "Advanced TDD Techniques",
+        "content": "Take your TDD skills to the next level by mastering mocking, stubbing, and behavior-driven development.",
+        "category": { "$oid": "671b36ddb758790add0b9cfc" },
+        "authar": "Laura Miles",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Test-driven_development_diagram.png"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608de" },
+        "title": "Exploring Node.js Security",
+        "content": "Learn about security best practices in Node.js to protect your applications.",
+        "category": { "$oid": "671b38c569611803fdb206d0" },
+        "authar": "Kevin Brown",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608df" },
+        "title": "Understanding RESTful APIs",
+        "content": "RESTful APIs are an essential part of modern web development, enabling communication between client and server.",
+        "category": { "$oid": "671b36ddb758790add0b9cf9" },
+        "authar": "Emma White",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/REST_API_model.png"
+    },
+    {
+        "_id": { "$oid": "671920e5d542b2fc30e608e0" },
+        "title": "MongoDB Aggregation Framework",
+        "content": "Master MongoDB's aggregation framework for advanced data processing and analytics.",
+        "category": { "$oid": "671b36ddb758790add0b9cfb" },
+        "authar": "Sophia Tan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
+    }
+]

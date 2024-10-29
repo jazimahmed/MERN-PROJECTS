@@ -1,0 +1,43 @@
+[
+  {
+      "_id": "671920e5d542b2fc30e608d7",
+      "title": "Exploring Node.js",
+      "content": "Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser.",
+      "category": "64f9b2f1d9a46c3a4eae7612", 
+      "authar": "Jazim Ahmed",
+      "image": "https://example.com/images/nodejs.jpg",
+      "createdAt": "2024-10-25T13:27:36.706Z",
+      "updatedAt": "2024-10-25T13:27:36.706Z"
+  },
+  {
+      "_id": "671920e5d542b2fc30e608d8",
+      "title": "Understanding MongoDB",
+      "content": "MongoDB is a NoSQL database that uses documents similar to JSON. It's designed for scalability and flexibility.",
+      "category": "64f9b3d1e5c47f2b3f9a6712", 
+      "authar": "Jazim Ahmed",
+      "image": "https://example.com/images/mongodb.png",
+      "createdAt": "2024-10-25T13:27:36.706Z",
+      "updatedAt": "2024-10-25T13:27:36.706Z"
+  },
+  {
+      "_id": "671920e5d542b2fc30e608da",
+      "title": "Benefits of Test-Driven Development",
+      "content": "Test-driven development (TDD) is a software development process in which developers write tests before writing the actual code.",
+      "category": "64f9b4a1c9e28d2c4b8e6714", 
+      "authar": "Jane Smith",
+      "image": "https://example.com/images/tdd.jpg",
+      "createdAt": "2024-10-25T13:27:36.706Z",
+      "updatedAt": "2024-10-25T13:27:36.706Z"
+  },
+  {
+      "_id": "671926b4ff6f860ffe61d494",
+      "title": "The Rise of Node.js",
+      "content": "Node.js has revolutionized backend development with its non-blocking architecture.",
+      "category": "64f9b5f1e7c58e1d5f8e6716",  
+      "authar": "Alice Johnson",
+      "image": "http://example.com/nodejs.png",
+      "createdAt": "2024-10-23T16:39:16.270Z",
+      "updatedAt": "2024-10-23T16:39:16.270Z",
+      "__v": 0
+  }
+]
